@@ -7,10 +7,10 @@ Este proyecto forma parte de un trabajo final académico centrado en el análisi
 
 El archivo `.pbix` incluye un dashboard interactivo con visualizaciones para los siguientes activos:
 
-- 🪙 Bitcoin (BTC)
-- 🪙 Ethereum (ETH)
-- 📈 S&P 500
-- 🇦🇷 MERVAL (Índice bursátil argentino)
+- Bitcoin (BTC)
+- Ethereum (ETH)
+- S&P 500 
+- MERVAL
 
 ##  Métricas Analizadas
 
